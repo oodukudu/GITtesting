@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3a67566-da76-43e7-b9cc-40a435a334f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="24Th1g6K67rsCB3QIdGU8LX6pUF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="TestNG.UITest">
+    <configuration name="Feature: registration" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/registration.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="AutomationTest" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: registration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.feature" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner" />
+      <option name="METHOD_NAME" value="feature" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UITest" type="TestNG">
+      <module name="AutomationTest" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: registration" />
+      <item itemvalue="TestNG.UITest" />
+      <item itemvalue="TestNG.TestRunner" />
+      <item itemvalue="TestNG.TestRunner.feature" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: registration" />
+        <item itemvalue="TestNG.TestRunner.feature" />
+        <item itemvalue="TestNG.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3a67566-da76-43e7-b9cc-40a435a334f2" name="Default Changelist" comment="" />
+      <created>1643660270147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643660270147</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1646340764394">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.790@0.25.1440.790" timestamp="1644958537984" />
+    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.794@0.25.1440.794" timestamp="1645784222670" />
+    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.797@0.25.1440.797" timestamp="1646340764393" />
+    <state x="457" y="208" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1644958498196">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state x="457" y="208" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.790@0.25.1440.790" timestamp="1644958498196" />
+    <state x="483" y="128" key="#xdebugger.evaluate" timestamp="1645478369285">
+      <screen x="0" y="25" width="1440" height="799" />
+    </state>
+    <state x="483" y="127" key="#xdebugger.evaluate/0.25.1440.791@0.25.1440.791" timestamp="1644272989052" />
+    <state x="483" y="128" key="#xdebugger.evaluate/0.25.1440.797@0.25.1440.797" timestamp="1644527823635" />
+    <state x="483" y="128" key="#xdebugger.evaluate/0.25.1440.799@0.25.1440.799" timestamp="1645478369285" />
+    <state width="1398" height="246" key="GridCell.Tab.0.bottom" timestamp="1646694195602">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.25.1440.790/1440.25.1920.1055@0.25.1440.790" timestamp="1644960726427" />
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.25.1440.790@0.25.1440.790" timestamp="1645648429350" />
+    <state width="1398" height="246" key="GridCell.Tab.0.bottom/0.25.1440.791@0.25.1440.791" timestamp="1646574115910" />
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.25.1440.794@0.25.1440.794" timestamp="1646339103100" />
+    <state width="1398" height="246" key="GridCell.Tab.0.bottom/0.25.1440.797@0.25.1440.797" timestamp="1646694195602" />
+    <state width="1398" height="247" key="GridCell.Tab.0.bottom/0.25.1440.799@0.25.1440.799" timestamp="1646339916336" />
+    <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.25.1440.801/1440.25.1920.1055@1440.25.1920.1055" timestamp="1643662653732" />
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1645478059133" />
+    <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.25.1440.804/1440.25.1920.1055@1440.25.1920.1055" timestamp="1643666606584" />
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.25.1440.804@0.25.1440.804" timestamp="1645478098009" />
+    <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.1920.970@1440.25.1920.970" timestamp="1643664942178" />
+    <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.1920.971@1440.25.1920.971" timestamp="1643664601572" />
+    <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.1920.973@1440.25.1920.973" timestamp="1643664631247" />
+    <state width="1398" height="246" key="GridCell.Tab.0.center" timestamp="1646694195601">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1398" height="232" key="GridCell.Tab.0.center/0.25.1440.790/1440.25.1920.1055@0.25.1440.790" timestamp="1644960726427" />
+    <state width="1398" height="232" key="GridCell.Tab.0.center/0.25.1440.790@0.25.1440.790" timestamp="1645648429350" />
+    <state width="1398" height="246" key="GridCell.Tab.0.center/0.25.1440.791@0.25.1440.791" timestamp="1646574115910" />
+    <state width="1398" height="232" key="GridCell.Tab.0.center/0.25.1440.794@0.25.1440.794" timestamp="1646339103099" />
+    <state width="1398" height="246" key="GridCell.Tab.0.center/0.25.1440.797@0.25.1440.797" timestamp="1646694195601" />
+    <state width="1398" height="247" key="GridCell.Tab.0.center/0.25.1440.799@0.25.1440.799" timestamp="1646339916334" />
+    <state width="1398" height="200" key="GridCell.Tab.0.center/0.25.1440.801/1440.25.1920.1055@1440.25.1920.1055" timestamp="1643662653731" />
+    <state width="1398" height="248" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1645478059131" />
+    <state width="1398" height="200" key="GridCell.Tab.0.center/0.25.1440.804/1440.25.1920.1055@1440.25.1920.1055" timestamp="1643666606584" />
+    <state width="1398" height="248" key="GridCell.Tab.0.center/0.25.1440.804@0.25.1440.804" timestamp="1645478098009" />
+    <state width="1398" height="200" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.1920.970@1440.25.1920.970" timestamp="1643664942177" />
+    <state width="1398" height="200" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.1920.971@1440.25.1920.971" timestamp="1643664601571" />
+    <state width="1398" height="200" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.1920.973@1440.25.1920.973" timestamp="1643664631246" />
+    <state width="1398" height="246" key="GridCell.Tab.0.left" timestamp="1646694195601">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1398" height="232" key="GridCell.Tab.0.left/0.25.1440.790/1440.25.1920.1055@0.25.1440.790" timestamp="1644960726426" />
+    <state width="1398" height="232" key="GridCell.Tab.0.left/0.25.1440.790@0.25.1440.790" timestamp="1645648429350" />
+    <state width="1398" height="246" key="GridCell.Tab.0.left/0.25.1440.791@0.25.1440.791" timestamp="1646574115909" />
+    <state width="1398" height="232" key="GridCell.Tab.0.left/0.25.1440.794@0.25.1440.794" timestamp="1646339103098" />
+    <state width="1398" height="246" key="GridCell.Tab.0.left/0.25.1440.797@0.25.1440.797" timestamp="1646694195601" />
+    <state width="1398" height="247" key="GridCell.Tab.0.left/0.25.1440.799@0.25.1440.799" timestamp="1646339916334" />
+    <state width="1398" height="200" key="GridCell.Tab.0.left/0.25.1440.801/1440.25.1920.1055@1440.25.1920.1055" timestamp="1643662653730" />
+    <state width="1398" height="248" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1645478059130" />
+    <state width="1398" height="200" key="GridCell.Tab.0.left/0.25.1440.804/1440.25.1920.1055@1440.25.1920.1055" timestamp="1643666606584" />
+    <state width="1398" height="248" key="GridCell.Tab.0.left/0.25.1440.804@0.25.1440.804" timestamp="1645478098008" />
+    <state width="1398" height="200" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.1920.970@1440.25.1920.970" timestamp="1643664942177" />
+    <state width="1398" height="200" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.1920.971@1440.25.1920.971" timestamp="1643664601571" />
+    <state width="1398" height="200" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.1920.973@1440.25.1920.973" timestamp="1643664631245" />
+    <state width="1398" height="246" key="GridCell.Tab.0.right" timestamp="1646694195601">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1398" height="232" key="GridCell.Tab.0.right/0.25.1440.790/1440.25.1920.1055@0.25.1440.790" timestamp="1644960726427" />
+    <state width="1398" height="232" key="GridCell.Tab.0.right/0.25.1440.790@0.25.1440.790" timestamp="1645648429350" />
+    <state width="1398" height="246" key="GridCell.Tab.0.right/0.25.1440.791@0.25.1440.791" timestamp="1646574115910" />
+    <state width="1398" height="232" key="GridCell.Tab.0.right/0.25.1440.794@0.25.1440.794" timestamp="1646339103100" />
+    <state width="1398" height="246" key="GridCell.Tab.0.right/0.25.1440.797@0.25.1440.797" timestamp="1646694195601" />
+    <state width="1398" height="247" key="GridCell.Tab.0.right/0.25.1440.799@0.25.1440.799" timestamp="1646339916335" />
+    <state width="1398" height="200" key="GridCell.Tab.0.right/0.25.1440.801/1440.25.1920.1055@1440.25.1920.1055" timestamp="1643662653731" />
+    <state width="1398" height="248" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1645478059132" />
+    <state width="1398" height="200" key="GridCell.Tab.0.right/0.25.1440.804/1440.25.1920.1055@1440.25.1920.1055" timestamp="1643666606584" />
+    <state width="1398" height="248" key="GridCell.Tab.0.right/0.25.1440.804@0.25.1440.804" timestamp="1645478098009" />
+    <state width="1398" height="200" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.1920.970@1440.25.1920.970" timestamp="1643664942178" />
+    <state width="1398" height="200" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.1920.971@1440.25.1920.971" timestamp="1643664601572" />
+    <state width="1398" height="200" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.1920.973@1440.25.1920.973" timestamp="1643664631247" />
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom" timestamp="1646694195602">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1397" height="248" key="GridCell.Tab.1.bottom/0.25.1440.790@0.25.1440.790" timestamp="1644535745128" />
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom/0.25.1440.791@0.25.1440.791" timestamp="1646574115911" />
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom/0.25.1440.794@0.25.1440.794" timestamp="1646574067931" />
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom/0.25.1440.797@0.25.1440.797" timestamp="1646694195602" />
+    <state width="1398" height="247" key="GridCell.Tab.1.bottom/0.25.1440.799@0.25.1440.799" timestamp="1646339914850" />
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.25.1440.804@0.25.1440.804" timestamp="1645478104461" />
+    <state width="1398" height="246" key="GridCell.Tab.1.center" timestamp="1646694195602">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1397" height="248" key="GridCell.Tab.1.center/0.25.1440.790@0.25.1440.790" timestamp="1644535745128" />
+    <state width="1398" height="246" key="GridCell.Tab.1.center/0.25.1440.791@0.25.1440.791" timestamp="1646574115910" />
+    <state width="1398" height="246" key="GridCell.Tab.1.center/0.25.1440.794@0.25.1440.794" timestamp="1646574067931" />
+    <state width="1398" height="246" key="GridCell.Tab.1.center/0.25.1440.797@0.25.1440.797" timestamp="1646694195602" />
+    <state width="1398" height="247" key="GridCell.Tab.1.center/0.25.1440.799@0.25.1440.799" timestamp="1646339914849" />
+    <state width="1398" height="248" key="GridCell.Tab.1.center/0.25.1440.804@0.25.1440.804" timestamp="1645478104461" />
+    <state width="1398" height="246" key="GridCell.Tab.1.left" timestamp="1646694195602">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1397" height="248" key="GridCell.Tab.1.left/0.25.1440.790@0.25.1440.790" timestamp="1644535745128" />
+    <state width="1398" height="246" key="GridCell.Tab.1.left/0.25.1440.791@0.25.1440.791" timestamp="1646574115910" />
+    <state width="1398" height="246" key="GridCell.Tab.1.left/0.25.1440.794@0.25.1440.794" timestamp="1646574067930" />
+    <state width="1398" height="246" key="GridCell.Tab.1.left/0.25.1440.797@0.25.1440.797" timestamp="1646694195602" />
+    <state width="1398" height="247" key="GridCell.Tab.1.left/0.25.1440.799@0.25.1440.799" timestamp="1646339914848" />
+    <state width="1398" height="248" key="GridCell.Tab.1.left/0.25.1440.804@0.25.1440.804" timestamp="1645478104460" />
+    <state width="1398" height="246" key="GridCell.Tab.1.right" timestamp="1646694195602">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1397" height="248" key="GridCell.Tab.1.right/0.25.1440.790@0.25.1440.790" timestamp="1644535745128" />
+    <state width="1398" height="246" key="GridCell.Tab.1.right/0.25.1440.791@0.25.1440.791" timestamp="1646574115911" />
+    <state width="1398" height="246" key="GridCell.Tab.1.right/0.25.1440.794@0.25.1440.794" timestamp="1646574067931" />
+    <state width="1398" height="246" key="GridCell.Tab.1.right/0.25.1440.797@0.25.1440.797" timestamp="1646694195602" />
+    <state width="1398" height="247" key="GridCell.Tab.1.right/0.25.1440.799@0.25.1440.799" timestamp="1646339914849" />
+    <state width="1398" height="248" key="GridCell.Tab.1.right/0.25.1440.804@0.25.1440.804" timestamp="1645478104461" />
+    <state x="1894" y="123" key="SettingsEditor" timestamp="1643661267187">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1894" y="123" key="SettingsEditor/0.25.1440.799/1440.25.1920.1055@1440.25.1920.1055" timestamp="1643661267187" />
+    <state x="397" y="250" key="com.intellij.ide.util.TipDialog" timestamp="1645473594900">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="397" y="250" key="com.intellij.ide.util.TipDialog/0.25.1440.790@0.25.1440.790" timestamp="1645126873282" />
+    <state x="397" y="250" key="com.intellij.ide.util.TipDialog/0.25.1440.791@0.25.1440.791" timestamp="1645473594900" />
+    <state x="2446" y="461" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1643662007866">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2446" y="461" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.25.1440.799/1440.25.1920.1055@1440.25.1920.1055" timestamp="1643662007866" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/registrationSteps.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/registrationSteps.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/registrationSteps.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
