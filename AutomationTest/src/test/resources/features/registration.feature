@@ -28,8 +28,8 @@ Feature: Student Registration Form
     Examples:
       | firstName | lastName | email                 | phoneNumber | homeAddress |
       | Oyin      | Odukudu  | oyinodukudu@gmail.com | 0746473647  | Glasgow, UK |
-      | Tanis     | Chase    | tanischase@gmail.com  | 0746436887  | London, UK  |
-      | Jack      | Phil     | jackphil@gmail.com    | 0748457664  | Leeds, UK   |
+#      | Tanis     | Chase    | tanischase@gmail.com  | 0746436887  | London, UK  |
+#      | Jack      | Phil     | jackphil@gmail.com    | 0748457664  | Leeds, UK   |
 
   @regression @invalid
   Scenario: Invalid Registration
